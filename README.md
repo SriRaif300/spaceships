@@ -1,5 +1,5 @@
 # Spaceships
-Para que fusione tienes que seguir los siguientes pasos:
+Para que funcione tienes que seguir los siguientes pasos:
 
 1. Crear un proyecto en Unity en 2D
 2. Cundo este creado cambias la bulid a WebGL
